@@ -33,6 +33,10 @@ public class ElectionApplication {
 }
 ```
 
+### Service
+
+Im Service passiert die Logik. Annotation mit `@Service`.
+
 ## Datentypen
 
 Um die Daten im Browser anzuzeigen wird `MediaType.*APPLICATION_JSON_VALUE`* bzw. `MediaType.*APPLICATION_XML_VALUE*` benötigt.  Diese sind auch in der Mapping-Annotation. 

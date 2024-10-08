@@ -84,3 +84,6 @@ Bei folgendem Objekt: `Person p = new Person(”Maya”, 168, 17)` wäre die Aus
 	<alter>17</alter>
 </Person>
 ```
+
+## Erweiterung der Datenstruktur
+Um die Vorzugsstimmen hinzuzufügen, hab ich für jede Partei fünf Vorzugsstimmen reingetan. Die Namen sind random, sowie die Listennummer und die Anzahl an Stimmen
